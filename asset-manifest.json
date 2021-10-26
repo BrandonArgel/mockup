@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/mockup/static/css/main.393e04da.chunk.css",
+    "main.js": "/mockup/static/js/main.6a037487.chunk.js",
+    "main.js.map": "/mockup/static/js/main.6a037487.chunk.js.map",
+    "runtime-main.js": "/mockup/static/js/runtime-main.a7222092.js",
+    "runtime-main.js.map": "/mockup/static/js/runtime-main.a7222092.js.map",
+    "static/js/2.71d9d559.chunk.js": "/mockup/static/js/2.71d9d559.chunk.js",
+    "static/js/2.71d9d559.chunk.js.map": "/mockup/static/js/2.71d9d559.chunk.js.map",
+    "index.html": "/mockup/index.html",
+    "static/css/main.393e04da.chunk.css.map": "/mockup/static/css/main.393e04da.chunk.css.map",
+    "static/js/2.71d9d559.chunk.js.LICENSE.txt": "/mockup/static/js/2.71d9d559.chunk.js.LICENSE.txt",
+    "static/media/logo.d461a4d9.png": "/mockup/static/media/logo.d461a4d9.png",
+    "static/media/search.353c0b58.svg": "/mockup/static/media/search.353c0b58.svg",
+    "static/media/settings.2db3e154.svg": "/mockup/static/media/settings.2db3e154.svg",
+    "static/media/tinkerbell.d83fec2c.svg": "/mockup/static/media/tinkerbell.d83fec2c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a7222092.js",
+    "static/js/2.71d9d559.chunk.js",
+    "static/css/main.393e04da.chunk.css",
+    "static/js/main.6a037487.chunk.js"
+  ]
+}
