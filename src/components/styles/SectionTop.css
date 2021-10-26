@@ -1,0 +1,30 @@
+.section__top {
+    padding: 20px 20px 100px;
+    width: 100%;
+    background-image: linear-gradient(to bottom, var(--dark-blue), #1E2595);
+    margin-top: 80px;
+}
+
+.section__top h1 {
+    font-size: 2.2rem;
+    font-weight: bold;
+    margin: 10px 0;
+    color: #ffffff;
+}
+
+.section__top h2 {
+    font-size: 1.6rem;
+    color: #ffffff;
+}
+
+.section__top h2 a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+.section__top h2 span {
+    color: #ffffff;
+    font-size: 1.6rem;
+    font-weight: bolder;
+    margin: 0 5px;
+}

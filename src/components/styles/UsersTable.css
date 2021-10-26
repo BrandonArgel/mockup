@@ -1,0 +1,51 @@
+.table__search {
+    margin-bottom: 20px;
+}
+
+.table__search label {
+    font-size: 1.6rem;
+    margin-right: 5px;
+}
+
+.table__search input {
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    padding: 5px;
+}
+
+.table__container {
+    max-width: 100%;
+    overflow-x: auto;
+}
+
+.table {
+    text-align: left;
+    white-space: nowrap;
+    width: 100%;
+}
+
+.table thead {
+    background-color: var(--dark-blue);
+}
+
+.table thead tr {
+    color: white;
+}
+
+.table thead tr th {
+    font-size: 1.6rem;
+    font-weight: bold;
+    padding: 10px;
+}
+
+.table tbody tr:nth-child(odd) {
+    background-color: #00000011;
+}
+
+.table tbody tr {
+    font-size: 1.4rem;
+}
+
+.table tbody tr td {
+    padding: 5px;
+}
